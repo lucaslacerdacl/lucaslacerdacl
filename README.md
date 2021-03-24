@@ -18,7 +18,7 @@
 
 ## ⛳ Atualmente
 * 💜 - Sou arquiteto de software na U4Crypto.
-* 🎩  -Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
+* 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
 
 Comecei a U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. Quero ser um profissional que sabe o básico de cada coisa e quero estar perto do time de desenvolvedores. Quero tentar entender as dificuldades do time e os desafios da empresa para projetar aquiteturas que colaborem com ambos os lados.
 
