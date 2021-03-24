@@ -25,6 +25,6 @@ Comecei a U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da prog
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="455"/>
 </p>
