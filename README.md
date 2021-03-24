@@ -22,8 +22,9 @@
 
 Comecei a U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. Quero ser um profissional que sabe o básico de cada coisa e quero estar perto do time de desenvolvedores. Quero tentar entender as dificuldades do time e os desafios da empresa para projetar aquiteturas que colaborem com ambos os lados.
 
+<br />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6237330/112248836-66c0d180-8c35-11eb-8cf3-c935cff70510.png" alt="drawing" width="235"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="480"/>
 </p>
