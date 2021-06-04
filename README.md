@@ -3,7 +3,7 @@
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
 * 🎞️ - Matrix, Senhor dos anéis, Interstelar.
-* 🍁 - Legalize já!
+* 🍁 - [@realganjadev](https://twitter.com/realganjadev)Legalize já!
 
 <br />
 
@@ -16,8 +16,8 @@
 
 ## 👽 Alguns fatos
 * Um chá gelado sempre me deixa bem. 🍹
-* Atualmente estou fascinado por camping. ⛺
-* Yoga + Meditação  + Exercícios fisicos = 🍀
+* Minha música do momento: [Duzz - "VENEZA"](https://www.youtube.com/watch?v=3Yt_UtEWc50). ⛺
+* No momento meu teste de personalidade foi: [Arquiteto INTJ-A / INTJ-T](https://www.16personalities.com/br/personalidade-intj)
 
 <br />
 
