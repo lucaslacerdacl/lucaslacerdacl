@@ -3,21 +3,21 @@
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
 * 🎞️ - Matrix, Senhor dos anéis, Interstelar.
-* 🍁 - [@realganjadev](https://twitter.com/realganjadev) - Legalize já!
+* 🍁 - <a href="https://twitter.com/realganjadev" target="_blank">@realganjadev</a> - Legalize já!
 
 <br />
 
 ## 🤖 Contato
-* 📕 - [Meu site - Lucas Lacerda CL](https://lucaslacerdacl.com/home)
-* 📗 - [Discord - LucasLacerdaCL#3289](https://discordapp.com/users/252890628755554304)
-* 📘 - [LinkedIn - Lucas Lacerda](https://www.linkedin.com/in/lucaslacerdacl/)
+* 📕 - <a href="https://lucaslacerdacl.com/home" target="_blank">Meu site - Lucas Lacerda CL</a>
+* 📗 - <a href="https://discordapp.com/users/252890628755554304" target="_blank">Discord - LucasLacerdaCL#3289</a>
+* 📘 - <a href="https://www.linkedin.com/in/lucaslacerdacl/" target="_blank">LinkedIn - Lucas Lacerda</a>
 
 <br />
 
 ## 👽 Alguns fatos
 * Um chá gelado sempre me deixa bem. 🍹
-* Minha música do momento: [Duzz - "VENEZA"](https://www.youtube.com/watch?v=3Yt_UtEWc50). ⛺
-* No momento meu teste de personalidade foi: [Arquiteto INTJ-A / INTJ-T](https://www.16personalities.com/br/personalidade-intj)
+* Minha música do momento: <a href="https://www.youtube.com/watch?v=3Yt_UtEWc50" target="_blank">Duzz - "VENEZA"</a>
+* No momento meu teste de personalidade foi: <a href="https://www.16personalities.com/br/personalidade-intj" target="_blank">Arquiteto INTJ-A / INTJ-T</a>
 
 <br />
 
