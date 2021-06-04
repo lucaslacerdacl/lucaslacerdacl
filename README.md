@@ -3,7 +3,7 @@
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
 * 🎞️ - Matrix, Senhor dos anéis, Interstelar.
-* 🍁 - [@realganjadev](https://twitter.com/realganjadev)Legalize já!
+* 🍁 - [@realganjadev](https://twitter.com/realganjadev) - Legalize já!
 
 <br />
 
