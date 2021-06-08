@@ -3,12 +3,12 @@
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
 * 🎞️ - Matrix, Senhor dos anéis, Interstelar.
-* 🍁 - [@realganjadev](https://twitter.com/realganjadev){:rel="noopener"} - Legalize já!
+* 🍁 - <a href="https://twitter.com/realganjadev" target="_blank">@realganjadev</a> - Legalize já!
 
 <br />
 
 ## 🤖 Contato
-* 📕 - <a href="https://lucaslacerdacl.com/home" rel="noopener">Meu site - Lucas Lacerda CL</a>
+* 📕 - <a href="https://lucaslacerdacl.com/home" target="_blank">Meu site - Lucas Lacerda CL</a>
 * 📗 - <a href="https://discordapp.com/users/252890628755554304" target="_blank">Discord - LucasLacerdaCL#3289</a>
 * 📘 - <a href="https://www.linkedin.com/in/lucaslacerdacl/" target="_blank">LinkedIn - Lucas Lacerda</a>
 
