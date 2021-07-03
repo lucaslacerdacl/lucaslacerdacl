@@ -1,4 +1,4 @@
-### E ai, bom? Eu sou o [Lacerda!](https://lucaslacerdacl.com/home) 👋
+### E ai, cê ta baum? Eu sou o [Lacerda!](https://lucaslacerdacl.com/home) 👋
 
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
@@ -15,9 +15,9 @@
 <br />
 
 ## 👽 Alguns fatos
-* Um chá gelado sempre me deixa bem. 🍹
-* Minha música do momento: <a href="https://www.youtube.com/watch?v=3Yt_UtEWc50" target="_blank">Duzz - "VENEZA"</a>
-* No momento meu teste de personalidade foi: <a href="https://www.16personalities.com/br/personalidade-intj" target="_blank">Arquiteto INTJ-A / INTJ-T</a>
+* Clean Code é um dos melhores livros já escritos nesse e no próximo século. 🍹
+* Você não é o seu trabalho.
+* A personalidade que mais me identifiquei até hoje foi: <a href="https://www.16personalities.com/br/personalidade-intj" target="_blank">Arquiteto INTJ-A / INTJ-T</a>
 
 <br />
 
@@ -25,7 +25,9 @@
 * 💜 - Sou arquiteto de software na U4Crypto.
 * 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
 
-Comecei a U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. Quero ser um profissional que sabe o básico de cada coisa e quero estar perto do time de desenvolvedores. Quero tentar entender as dificuldades do time e os desafios da empresa para projetar aquiteturas que colaborem com ambos os lados.
+Comecei na U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. 💟
+Em paralelo estou construindo minha empresa (aceito todo tipo de ajuda para escolher um nome) 💯.
+Estou noivo 💍.
 
 <br />
 
@@ -34,4 +36,4 @@ Comecei a U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da prog
   <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="455"/>
 </p>
 
-Feito com ❤️ por mim mesmo.
+Feito com ❤️ por mim mesmo e inspirado em <a href="https://github.com/richardwellerson" target="_blank">Richard Wellerson</a>
