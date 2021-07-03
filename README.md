@@ -25,15 +25,15 @@
 * 💜 - Sou arquiteto de software na U4Crypto.
 * 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
 
-Comecei na U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. 💟
-Em paralelo estou construindo minha empresa (aceito todo tipo de ajuda para escolher um nome) 💯.
-Estou noivo 💍.
+* Comecei na U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. 💟
+* Em paralelo estou construindo minha empresa (aceito todo tipo de ajuda para escolher um nome) 💯.
+* Estou noivo 💍.
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="380"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="455"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="300"/>
 </p>
 
 Feito com ❤️ por mim mesmo e inspirado em <a href="https://github.com/richardwellerson" target="_blank">Richard Wellerson</a>
