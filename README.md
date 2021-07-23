@@ -1,9 +1,9 @@
-### E ai, cê ta baum? Eu sou o [Lacerda!](https://lucaslacerdacl.com/home) 👋
+### Opa, joia? Eu sou o [Lacerda!](https://lucaslacerdacl.com/home) 👋
 
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
-* 🎞️ - Matrix, Senhor dos anéis, Interstelar.
-* 🍁 - <a href="https://twitter.com/realganjadev" target="_blank">@realganjadev</a> - Legalize já!
+* 🎞️ - Só sei que nada sei.
+* 🍁 - <a href="https://twitter.com/realganjadev" target="_blank">@realganjadev</a>
 
 <br />
 
@@ -15,7 +15,7 @@
 <br />
 
 ## 👽 Alguns fatos
-* Clean Code é um dos melhores livros já escritos nesse e no próximo século. 🍹
+* Clean Code é um dos melhores livros já escritos. 🍹
 * Você não é o seu trabalho.
 * A personalidade que mais me identifiquei até hoje foi: <a href="https://www.16personalities.com/br/personalidade-intj" target="_blank">Arquiteto INTJ-A / INTJ-T</a>
 
@@ -26,8 +26,8 @@
 * 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
 
 * Comecei na U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. 💟
-* Em paralelo estou construindo minha empresa (aceito todo tipo de ajuda para escolher um nome) 💯.
-* Estou noivo 💍.
+* Em paralelo sou co-fundador da HeronLabs 💯.
+* Eu estou noivo 💍.
 
 <br />
 
