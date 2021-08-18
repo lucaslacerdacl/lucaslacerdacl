@@ -16,6 +16,7 @@
 
 ## 👽 Alguns fatos
 * Clean Code é um dos melhores livros já escritos. 🍹
+* Clean Architecture é um dos melhores livros já escritos. 🍹
 * Você não é o seu trabalho.
 * A personalidade que mais me identifiquei até hoje foi: <a href="https://www.16personalities.com/br/personalidade-intj" target="_blank">Arquiteto INTJ-A / INTJ-T</a>
 
@@ -26,7 +27,7 @@
 * 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
 
 * Comecei na U4Crypto já faz mais de 1 ano! Aqui eu descobri em qual parte da programação quero me aprofundar. 💟
-* Em paralelo sou co-fundador da HeronLabs 💯.
+* Em paralelo sou co-fundador da HeronLabs 🧪.
 * Eu estou noivo 💍.
 
 <br />
