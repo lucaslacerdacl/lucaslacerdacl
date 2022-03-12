@@ -25,4 +25,4 @@
 
 <br />
 
-Feito com ❤️ por mim mesmo e inspirado em <a href="https://github.com/richardwellerson" target="_blank">Richard Wellerson</a>
+Feito com ❤️
