@@ -3,7 +3,6 @@
 ## 🧙‍♂️ Sobre mim
 * 👶 - Nasci em: 03/1996
 * 🎞️ - Só sei que nada sei.
-* 🍁 - <a href="https://twitter.com/realganjadev" target="_blank">@realganjadev</a>
 
 ## ⛳ Atualmente
 * 💜 - Sou arquiteto de software na U4Crypto.
