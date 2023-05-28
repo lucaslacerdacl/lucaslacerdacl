@@ -5,16 +5,15 @@
 * 🎞️ - Só sei que nada sei.
 
 ## ⛳ Atualmente
-* 💜 - Sou arquiteto de software na U4Crypto.
-* 🧪 - Em paralelo sou co-fundador da HeronLabs.
-* 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Shell.
+* 🧪 - Sou fundador da Heron Labs.
+* 🎩 - Minhas tecnologias favoritas são: Nodejs, Typescript, Bash.
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=dark" alt="drawing" width="300"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=dark" alt="drawing" width="250"/>
 
 ## 🤖 Contato
 * 📕 - <a href="https://lucaslacerdacl.com/home" target="_blank">Meu site - Lucas Lacerda CL</a>
-* 📗 - <a href="https://discordapp.com/users/252890628755554304" target="_blank">Discord - LucasLacerdaCL#3289</a>
-* 📘 - <a href="https://www.linkedin.com/in/lucaslacerdacl/" target="_blank">LinkedIn - Lucas Lacerda</a>
+* 📗 - <a href="https://www.linkedin.com/in/lucaslacerdacl/" target="_blank">LinkedIn - Lucas Lacerda</a>
+* 📘 - <a href="https://www.heronlabs.com.br/" target="_blank">Site da minha startup - Heron Labs</a>
 
 ## 👽 Alguns fatos
 * Clean Code é um dos melhores livros já escritos.
