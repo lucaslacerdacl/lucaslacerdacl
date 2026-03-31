@@ -36,11 +36,6 @@ const lucas = {
 
 ## GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucaslacerdacl&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslacerdacl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslacerdacl/)
