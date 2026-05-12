@@ -9,8 +9,7 @@ const lucas = {
     role: "Software Engineer",
     languages: ["JavaScript", "TypeScript", "Go", "Python", "C++"],
     tools: ["React", "Node.js", "Docker", "Shell", "Git"],
-    interests: ["DevOps", "CI/CD", "Backend Systems", "Open Source"],
-    philosophy: "The philosophers have only interpreted the world; the point, however, is to change it."
+    interests: ["DevOps", "CI/CD", "Backend Systems", "Open Source"]
 };
 ```
 
